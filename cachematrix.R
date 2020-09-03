@@ -1,3 +1,6 @@
+
+
+
 ##HELLO
 ## function1 is makecache function which make a special matrix and rerurn it's inverse  
 
